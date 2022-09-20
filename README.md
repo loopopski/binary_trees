@@ -4,6 +4,8 @@
 -   By Alexandre Gautier
 -   Weight: 5
 
+![image](https://user-images.githubusercontent.com/83606182/186206626-5c6b9e16-dc7f-459d-93c2-21de1659e11e.png)
+
 Resources
 ---------
 
